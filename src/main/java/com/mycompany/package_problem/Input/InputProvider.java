@@ -1,4 +1,4 @@
-package com.mycompany.package_problem.Input;
+package com.mycompany.package_problem.input;
 
 import java.util.List;
 
